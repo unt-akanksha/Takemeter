@@ -272,8 +272,8 @@ This is fine for in-distribution examples — the model's training data had clea
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
-cd ai201-project3
+git clone https://github.com/unt-akanksha/Takemeter.git
+cd Takemeter
 
 # Open the notebook in Google Colab
 # Upload data/nba_labeled.csv when prompted in Section 1
